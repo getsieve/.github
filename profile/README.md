@@ -1,6 +1,6 @@
 # Sieve
 
-**Credentials stay in Europe.**
+**Sift before you send.**
 
 Sieve is an open-source checkpoint for AI tools. It catches passwords, API keys and other credentials before your prompts, files and agent context are sent to AI providers like Anthropic, OpenAI or xAI.
 
